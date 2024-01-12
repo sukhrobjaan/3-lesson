@@ -91,6 +91,7 @@ public class Divice {
             }
         } else {
             System.out.println("ERROR  There is no such App");
+            System.out.println("ERROR  There is no such App");
         }
 
     }
